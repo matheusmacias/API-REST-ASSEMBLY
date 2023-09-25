@@ -1,0 +1,6 @@
+# Arquivos de saída de montagem
+*.o
+*.out
+*.lst
+.idea/
+tests/
